@@ -1,6 +1,6 @@
 ## About
 
-### :high_brightness: :wrench: :gear: :coffee: :computer: :cloud: :cloud_with_rain: :sun_behind_large_cloud: :recycle:
+:high_brightness: :wrench: :gear: :coffee: :computer: :cloud: :cloud_with_rain: :sun_behind_large_cloud: :recycle:
 
 Hello, I'm a Senior Site Reliability Engineer at F5. Previously I've worked for Vutility, 3M HIS, and a few other innovative tech companies.
 
@@ -15,5 +15,10 @@ Hello, I'm a Senior Site Reliability Engineer at F5. Previously I've worked for 
 :wavy_dash: :book:
 
 :wavy_dash: 🤖
+
+```bash
+# Bash - Animated robot (Ctrl+C to stop)
+while true; do clear; echo -e "\n  [◉_◉]\n   ╠═╣  \n  /| |\\"; sleep 0.5; clear; echo -e "\n  [◉_◉]\n   ╠═╣  \n   | |"; sleep 0.5; done
+```
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W51TNNU2)
