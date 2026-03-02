@@ -2,11 +2,11 @@
 
 :high_brightness: :wrench: :gear: :coffee: :computer: :cloud: :cloud_with_rain: :sun_behind_large_cloud: :recycle:
 
-Hello, I'm a Senior Site Reliability Engineer at F5. Previously, I've worked for Vutility, 3M HIS, and a few other innovative tech companies.
-
 <img align="right" width="128" src="https://raw.githubusercontent.com/nicholashoule/img/main/qr-github-nicholashoule.png" />
 
-:wavy_dash: :wave: Hello
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=23FF00&vCenter=true&width=128&height=24&lines=~%24+Hello!)](https://git.io/typing-svg)
+
+I'm a Senior Site Reliability Engineer at F5. Previously, I've worked for Vutility, 3M HIS, and a few other innovative tech companies.
 
 :wavy_dash: :clipboard: Pronouns: he/him/his
 
