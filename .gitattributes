@@ -1,0 +1,37 @@
+# Normalize line endings to LF for all text files by default.
+# text=auto lets Git detect text vs binary; eol=lf forces LF on checkout
+# whatever core.autocrlf says, so no clone on any OS gets CRLF.
+* text=auto eol=lf
+
+# Go source and module files
+*.go text eol=lf
+go.mod text eol=lf
+go.sum text eol=lf
+*.tmpl text eol=lf
+
+# Documentation and config
+*.md text eol=lf
+*.mdc text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+Makefile text eol=lf
+Dockerfile text eol=lf
+LICENSE text eol=lf
+
+# Shell scripts and git hooks (the hook scripts have no extension)
+*.sh text eol=lf
+scripts/hooks/pre-commit text eol=lf
+scripts/hooks/pre-push text eol=lf
+
+# HTML / CSS / JS files
+*.css text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
